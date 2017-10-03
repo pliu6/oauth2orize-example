@@ -10,16 +10,14 @@ Install
 ===
 
 ```bash
-git clone https://github.com/gerges-beshay/oauth2orize-examples.git
-pushd oauth2orize-examples
-npm install
+yarn
 ```
 
 Usage
 ===
 
 ```bash
-node app.js
+npm start
 ```
 
 Visit <http://localhost:3000/login> to see the server running locally.
@@ -37,7 +35,6 @@ Interacting with this provider directly doesn't showcase it's oauth2 functionali
 
 In order to demo what this is actually accomplishing you'll need to run a consumer.
 
-See <https://github.com/coolaj86/example-oauth2orize-consumer>
 
 API
 ===

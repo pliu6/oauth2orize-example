@@ -1,7 +1,7 @@
 {
-  "name": "oauth2orize-examples",
-  "version": "0.1.0",
-  "repository": "https://github.com/gerges-beshay/oauth2orize-examples.git",
+  "name": "oauth2orize-provider",
+  "version": "0.2.0",
+  "repository": "",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"
